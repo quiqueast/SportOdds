@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'JLPlata'
+
 
 import sys
 from bs4 import BeautifulSoup
